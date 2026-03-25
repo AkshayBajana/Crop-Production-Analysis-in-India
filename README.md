@@ -80,5 +80,3 @@ This page focuses on **long-term trends and growth patterns**.
 👉 **Insight:** Production shows a steady increase, but growth is influenced by both area and efficiency.
 
 ---
-
-## 📂 Project Structure
